@@ -1,8 +1,8 @@
 package Factory;
 
-public class NyFactory extends PizzaStore {
+public class NyFactory {
 
     public Pizza createPizza() {
-        
+        return null;
     }
 }
